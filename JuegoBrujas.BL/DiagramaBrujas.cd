@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="JuegoBrujas.BL.Bruja">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAgAAAQAAAAAgAAAAgAAAAAIAEAAAAE=</HashCode>
+      <FileName>Brujas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegoBrujas.BL.Escoba">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgIAABAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Escobas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegoBrujas.BL.Pueblo">
+    <Position X="6" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAgAkAAAAIgAAAAAAABAAAAAACAAAAAAA=</HashCode>
+      <FileName>Pueblos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegoBrujas.BL.Viaje">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAACAAAAEAAAEAGAAAAQAAASAAIIAAAAAAAAAAQCAA=</HashCode>
+      <FileName>Viaje.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JuegoBrujas.BL.Trayecto">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQAAAAAAAAAAAAABAAAAAAAAAAABAIAAkABEAAEAAAA=</HashCode>
+      <FileName>Trayecto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
